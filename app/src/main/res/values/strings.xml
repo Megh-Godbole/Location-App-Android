@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Location App (Project-2)</string>
+    <string name="WelcomeMessage">Welcome to the Location Saver App!</string>
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="places">Places</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="AppAboutDescription">Developed by: Megh Godbole And Chandani Solanki</string>
+    <string name="txtShare">Share</string>
+    <string name="save_location">Save Location</string>
+</resources>
